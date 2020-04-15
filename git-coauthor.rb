@@ -1,8 +1,8 @@
 class GitCoauthor < Formula
   desc "Simple multiple author support porcelain for git."
   homepage "https://github.com/simoleone/git-coauthor"
-  url "https://github.com/simoleone/git-coauthor/archive/v1.1.tar.gz"
-  sha256 "67cfb68f389781cbfec0b50f7766b13c56960ff9a10c4dd808da869ca5eef477"
+  url "https://github.com/simoleone/git-coauthor/archive/v1.2.tar.gz"
+  sha256 "980c34f72699227080e18b18a012df2570fc95f7140d8bd3349c3ce20fc5b0c6"
   head "https://github.com/simoleone/git-coauthor.git"
 
   bottle :unneeded
