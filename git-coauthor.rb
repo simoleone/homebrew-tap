@@ -5,8 +5,6 @@ class GitCoauthor < Formula
   sha256 "980c34f72699227080e18b18a012df2570fc95f7140d8bd3349c3ce20fc5b0c6"
   head "https://github.com/simoleone/git-coauthor.git"
 
-  bottle :unneeded
-
   def install
     bin.install Dir["git-*"]
   end
